@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "SAM-Enhanced",
+      "name": "sam_enhanced",
       "maintainer": "VChavezB",
       "websiteURL": "http://www.arduino.cc/",
       "email": "chavez-bermudez@fh-aachen.de",
