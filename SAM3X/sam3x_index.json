@@ -1,0 +1,41 @@
+{
+  "packages": [
+    {
+      "name": "Victor",
+      "maintainer": "VChavezB",
+      "websiteURL": "http://www.arduino.cc/",
+      "email": "chavez-bermudez@fh-aachen.de",
+      "help": {
+        "online": "http://www.arduino.cc/en/Reference/HomePage"
+      },
+      "platforms": [
+        {
+          "name": "Arduino SAM Boards (32-bits ARM Cortex-M3) Enhanced",
+          "architecture": "sam",
+          "version": "1.6.12-E",
+          "category": "Contributed",
+          "url": "https://github.com/vChavezB/ArduinoCore-sam/archive/refs/tags/v0.0.1.zip",
+          "archiveFileName": "ArduinoCore-sam-0.0.1.zip",
+          "checksum": "SHA-256:61ab6b519de06803ec45eebcabf51609ecc3fa910500181f12f779db28252106",
+          "size": "42419531",
+          "boards": [
+            {"name": "Arduino Due Enhanced"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.7.0-arduino3"
+            }
+          ]
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
