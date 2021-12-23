@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "Victor",
+      "name": "SAM-Enhanced",
       "maintainer": "VChavezB",
       "websiteURL": "http://www.arduino.cc/",
       "email": "chavez-bermudez@fh-aachen.de",
@@ -12,7 +12,7 @@
         {
           "name": "Arduino SAM Boards (32-bits ARM Cortex-M3) Enhanced",
           "architecture": "sam",
-          "version": "1.6.12-E",
+          "version": "0.0.1",
           "category": "Contributed",
           "url": "https://github.com/vChavezB/ArduinoCore-sam/archive/refs/tags/v0.0.1.zip",
           "archiveFileName": "ArduinoCore-sam-0.0.1.zip",
@@ -25,7 +25,7 @@
             {
               "packager": "arduino",
               "name": "arm-none-eabi-gcc",
-              "version": "7-2017q4"
+              "version": "10.3-2021.10"
             },
             {
               "packager": "arduino",
