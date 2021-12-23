@@ -14,10 +14,10 @@
           "architecture": "sam",
           "version": "0.0.1",
           "category": "Contributed",
-          "url": "https://github.com/vChavezB/ArduinoCore-sam/archive/refs/tags/v0.0.1.zip",
-          "archiveFileName": "ArduinoCore-sam-0.0.1.zip",
-          "checksum": "SHA-256:61ab6b519de06803ec45eebcabf51609ecc3fa910500181f12f779db28252106",
-          "size": "42419531",
+          "url": "https://github.com/vChavezB/ArduinoCore-sam/archive/refs/tags/v0.0.2.tar.gz",
+          "archiveFileName": "ArduinoCore-sam-0.0.2.tar.gz",
+          "checksum": "SHA-256:3b029ccfa000c03b4b74c82b6a984bb4bf70bce582e15f36ce3199734e09b9a3",
+          "size": "38840161",
           "boards": [
             {"name": "Arduino Due Enhanced"}
           ],
