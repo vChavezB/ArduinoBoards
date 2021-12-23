@@ -12,12 +12,12 @@
         {
           "name": "Arduino SAM Boards (32-bits ARM Cortex-M3) Enhanced",
           "architecture": "sam",
-          "version": "0.0.1",
+          "version": "0.0.3",
           "category": "Contributed",
-          "url": "https://github.com/vChavezB/ArduinoCore-sam/archive/refs/tags/v0.0.2.tar.gz",
-          "archiveFileName": "ArduinoCore-sam-0.0.2.tar.gz",
-          "checksum": "SHA-256:3b029ccfa000c03b4b74c82b6a984bb4bf70bce582e15f36ce3199734e09b9a3",
-          "size": "38840161",
+          "url": "https://github.com/vChavezB/ArduinoCore-sam/archive/refs/tags/v0.0.3.tar.gz",
+          "archiveFileName": "ArduinoCore-sam-0.0.3.tar.gz",
+          "checksum": "SHA-256:0803716891310c2230fa2c320b45bddb364019714b69969d18e3f2fc98d373ad",
+          "size": "38839221",
           "boards": [
             {"name": "Arduino Due Enhanced"}
           ],
