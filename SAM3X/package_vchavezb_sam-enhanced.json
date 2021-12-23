@@ -23,7 +23,7 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "arduino",
+              "packager": "SAM-Enhanced",
               "name": "arm-none-eabi-gcc",
               "version": "10.3-2021.10"
             },
