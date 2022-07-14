@@ -16,8 +16,7 @@
           "category": "Contributed",
           "url": "https://github.com/vChavezB/ArduinoCore-sam/archive/refs/tags/v0.0.4.tar.gz",
           "archiveFileName": "ArduinoCore-sam-0.0.4.tar.gz",
-          "checksum": "SHA-256:0803716891310c2230fa2c320b45bddb364019714b69969d18e3f2fc98d373ad",
-          "size": "38839221",
+          "checksum": "SHA-256:549ce0673df8671d04c159af98a199b04fe74916b242fc677692a4f2fa1452e6",
           "boards": [
             {"name": "Arduino Due Enhanced"}
           ],
