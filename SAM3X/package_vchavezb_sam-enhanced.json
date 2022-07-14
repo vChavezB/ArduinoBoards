@@ -35,7 +35,7 @@
             {
               "packager": "SAM-Enhanced",
               "name": "arm-none-eabi-gcc",
-              "version": "11.2.1-1.2"
+              "version": "11.2.1-xpack"
             },
             {
               "packager": "arduino",
@@ -123,7 +123,7 @@
         },
        {
           "name": "arm-none-eabi-gcc",
-          "version": "11.2.1-1.2",
+          "version": "11.2.1-xpack",
           "systems": [
             {
               "host": "aarch64-apple-darwin",
