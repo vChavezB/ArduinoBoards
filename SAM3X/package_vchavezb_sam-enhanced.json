@@ -12,10 +12,10 @@
         {
           "name": "Arduino SAM Boards (32-bits ARM Cortex-M3) Enhanced",
           "architecture": "sam",
-          "version": "0.0.3",
+          "version": "0.0.4",
           "category": "Contributed",
-          "url": "https://github.com/vChavezB/ArduinoCore-sam/archive/refs/tags/v0.0.3.tar.gz",
-          "archiveFileName": "ArduinoCore-sam-0.0.3.tar.gz",
+          "url": "https://github.com/vChavezB/ArduinoCore-sam/archive/refs/tags/v0.0.4.tar.gz",
+          "archiveFileName": "ArduinoCore-sam-0.0.4.tar.gz",
           "checksum": "SHA-256:0803716891310c2230fa2c320b45bddb364019714b69969d18e3f2fc98d373ad",
           "size": "38839221",
           "boards": [
