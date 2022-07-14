@@ -122,6 +122,47 @@
               "checksum": "MD5:2383e4eb4ea23f248d33adc70dc3227e"
             }
           ]
+        },
+       {
+          "name": "arm-none-eabi-gcc",
+          "version": "11.2-2022.02",
+          "systems": [
+            {
+              "host": "aarch64-linux-gnu",
+              "url": "https://developer.arm.com/-/media/Files/downloads/gnu/11.2-2022.02/binrel/gcc-arm-11.2-2022.02-x86_64-aarch64-none-linux-gnu.tar.xz",
+              "archiveFileName": "gcc-arm-11.2-2022.02-x86_64-aarch64-none-linux-gnu.tar.xz",
+              "size": 120131584,
+              "checksum": "MD5:712ee3fa6247ac3f619dd193f714fbc1"
+            },
+            {
+              "host": "i686-mingw64",
+              "url": "https://developer.arm.com/-/media/Files/downloads/gnu/11.2-2022.02/binrel/gcc-arm-11.2-2022.02-mingw-w64-i686-arm-none-eabi.zip",
+              "archiveFileName": "gcc-arm-11.2-2022.02-mingw-w64-i686-arm-none-eabi.zip",
+              "size": 1078127076,
+              "checksum": "SHA-256:585156432d73c9c2c8b4742e342564a75d47886d90ac821f88d2b564c33e6766"
+            },
+            {
+              "host": "x86_64-apple-darwin",
+              "url": "https://developer.arm.com/-/media/Files/downloads/gnu/11.2-2022.02/binrel/gcc-arm-11.2-2022.02-darwin-x86_64-arm-none-eabi.tar.xz",
+              "archiveFileName": "gcc-arm-none-eabi-10.3-2021.10-mac.tar.bz2",
+              "size": 489056264,
+              "checksum": "MD5:c51d8257b67d7555047f172698730685"
+            },
+            {
+              "host": "x86_64-pc-linux-gnu",
+              "url": "https://developer.arm.com/-/media/Files/downloads/gnu/11.2-2022.02/binrel/gcc-arm-11.2-2022.02-x86_64-arm-none-eabi.tar.xz",
+              "archiveFileName": "gcc-arm-11.2-2022.02-x86_64-arm-none-eabi.tar.xz",
+              "size": 490927032,
+              "checksum": "SHA-256:8c5acd5ae567c0100245b0556941c237369f210bceb196edfe5a2e7532c60326"
+            },
+            {
+              "host": "i686-pc-linux-gnu",
+              "url": "https://developer.arm.com/-/media/Files/downloads/gnu/11.2-2022.02/binrel/gcc-arm-11.2-2022.02-x86_64-arm-none-eabi.tar.xz",
+              "archiveFileName": "gcc-arm-11.2-2022.02-x86_64-arm-none-eabi.tar.xz",
+              "size": 490927032,
+              "checksum": "SHA-256:8c5acd5ae567c0100245b0556941c237369f210bceb196edfe5a2e7532c60326"
+            }
+          ]
         }
       ]
     }
