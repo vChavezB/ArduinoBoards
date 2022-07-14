@@ -140,7 +140,7 @@
               "checksum": "MD5:712ee3fa6247ac3f619dd193f714fbc1"
             },
             {
-              "host": "i686-mingw64",
+              "host": "i686-mingw32",
               "url": "https://developer.arm.com/-/media/Files/downloads/gnu/11.2-2022.02/binrel/gcc-arm-11.2-2022.02-mingw-w64-i686-arm-none-eabi.zip",
               "archiveFileName": "gcc-arm-11.2-2022.02-mingw-w64-i686-arm-none-eabi.zip",
               "size": 1078127076,
