@@ -33,6 +33,11 @@
               "version": "10.3-2021.10"
             },
             {
+              "packager": "SAM-Enhanced",
+              "name": "arm-none-eabi-gcc",
+              "version": "11.2-2022.02"
+            },
+            {
               "packager": "arduino",
               "name": "bossac",
               "version": "1.7.0-arduino3"
