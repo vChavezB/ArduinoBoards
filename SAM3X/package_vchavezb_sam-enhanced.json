@@ -35,7 +35,7 @@
             {
               "packager": "SAM-Enhanced",
               "name": "arm-none-eabi-gcc",
-              "version": "11.2-2022.02"
+              "version": "11.2.1-1.2"
             },
             {
               "packager": "arduino",
