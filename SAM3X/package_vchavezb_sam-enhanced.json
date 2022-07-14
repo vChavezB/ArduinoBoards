@@ -118,26 +118,33 @@
               "archiveFileName": "gcc-arm-none-eabi-10.3-2021.10-x86_64-linux.tar.bz2",
               "size": 157089706,
               "checksum": "MD5:2383e4eb4ea23f248d33adc70dc3227e"
-            },
-            {
-              "host": "i686-pc-linux-gnu",
-              "url": "https://developer.arm.com/-/media/Files/downloads/gnu-rm/10.3-2021.10/gcc-arm-none-eabi-10.3-2021.10-x86_64-linux.tar.bz2",
-              "archiveFileName": "gcc-arm-none-eabi-10.3-2021.10-x86_64-linux.tar.bz2",
-              "size": 157089706,
-              "checksum": "MD5:2383e4eb4ea23f248d33adc70dc3227e"
             }
           ]
         },
        {
           "name": "arm-none-eabi-gcc",
-          "version": "11.2.1",
+          "version": "11.2.1-1.2",
           "systems": [
             {
+              "host": "aarch64-apple-darwin",
+              "url": "https://github.com/xpack-dev-tools/arm-none-eabi-gcc-xpack/releases/download/v11.2.1-1.2/xpack-arm-none-eabi-gcc-11.2.1-1.2-darwin-arm64.tar.gz",
+              "archiveFileName": "xpack-arm-none-eabi-gcc-11.2.1-1.2-darwin-arm64.tar.gz",
+              "size": 231851100,
+              "checksum": "MD5:0caba7c6ccbff8835dba0205bb2d4d11"
+            },
+            {
               "host": "aarch64-linux-gnu",
-              "url": "https://developer.arm.com/-/media/Files/downloads/gnu/11.2-2022.02/binrel/gcc-arm-11.2-2022.02-x86_64-aarch64-none-linux-gnu.tar.xz",
-              "archiveFileName": "gcc-arm-11.2-2022.02-x86_64-aarch64-none-linux-gnu.tar.xz",
-              "size": 120131584,
-              "checksum": "MD5:712ee3fa6247ac3f619dd193f714fbc1"
+              "url": "https://github.com/xpack-dev-tools/arm-none-eabi-gcc-xpack/releases/download/v11.2.1-1.2/xpack-arm-none-eabi-gcc-11.2.1-1.2-linux-arm64.tar.gz",
+              "archiveFileName": "xpack-arm-none-eabi-gcc-11.2.1-1.2-linux-arm64.tar.gz",
+              "size": 233645479,
+              "checksum": "MD5:63493c0104c565de6dca59b3b90372f0"
+            },
+            {
+              "host": "arm-linux-gnueabihf",
+              "url": "https://github.com/xpack-dev-tools/arm-none-eabi-gcc-xpack/releases/download/v11.2.1-1.2/xpack-arm-none-eabi-gcc-11.2.1-1.2-linux-arm.tar.gz",
+              "archiveFileName": "xpack-arm-none-eabi-gcc-11.2.1-1.2-linux-arm.tar.gz",
+              "size": 227115677,
+              "checksum": "MD5:1d3f4055069b6326806051e15b9de059"
             },
             {
               "host": "i686-mingw32",
@@ -148,24 +155,17 @@
             },
             {
               "host": "x86_64-apple-darwin",
-              "url": "https://developer.arm.com/-/media/Files/downloads/gnu/11.2-2022.02/binrel/gcc-arm-11.2-2022.02-darwin-x86_64-arm-none-eabi.tar.xz",
-              "archiveFileName": "gcc-arm-none-eabi-10.3-2021.10-mac.tar.bz2",
-              "size": 489056264,
-              "checksum": "MD5:c51d8257b67d7555047f172698730685"
+              "url": "https://github.com/xpack-dev-tools/arm-none-eabi-gcc-xpack/releases/download/v11.2.1-1.2/xpack-arm-none-eabi-gcc-11.2.1-1.2-darwin-x64.tar.gz",
+              "archiveFileName": "xpack-arm-none-eabi-gcc-11.2.1-1.2-darwin-x64.tar.gz",
+              "size": 227115677,
+              "checksum": "MD5:95df8a69d322f34ec27dc3f4bb82e897"
             },
             {
               "host": "x86_64-pc-linux-gnu",
-              "url": "https://developer.arm.com/-/media/Files/downloads/gnu/11.2-2022.02/binrel/gcc-arm-11.2-2022.02-x86_64-arm-none-eabi.tar.xz",
-              "archiveFileName": "gcc-arm-11.2-2022.02-x86_64-arm-none-eabi.tar.xz",
-              "size": 490927032,
-              "checksum": "SHA-256:8c5acd5ae567c0100245b0556941c237369f210bceb196edfe5a2e7532c60326"
-            },
-            {
-              "host": "i686-pc-linux-gnu",
-              "url": "https://developer.arm.com/-/media/Files/downloads/gnu/11.2-2022.02/binrel/gcc-arm-11.2-2022.02-x86_64-arm-none-eabi.tar.xz",
-              "archiveFileName": "gcc-arm-11.2-2022.02-x86_64-arm-none-eabi.tar.xz",
-              "size": 490927032,
-              "checksum": "SHA-256:8c5acd5ae567c0100245b0556941c237369f210bceb196edfe5a2e7532c60326"
+              "url": "https://github.com/xpack-dev-tools/arm-none-eabi-gcc-xpack/releases/download/v11.2.1-1.2/xpack-arm-none-eabi-gcc-11.2.1-1.2-linux-x64.tar.gz",
+              "archiveFileName": "xpack-arm-none-eabi-gcc-11.2.1-1.2-linux-x64.tar.gz",
+              "size": 235243515,
+              "checksum": "MD5:be8351d78458365432c5591c0fc9759d"
             }
           ]
         }
